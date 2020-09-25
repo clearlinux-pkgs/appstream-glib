@@ -235,6 +235,8 @@ libappstream-glib.so.8:as_checksum_set_value
 libappstream-glib.so.8:as_checksum_target_from_string
 libappstream-glib.so.8:as_checksum_target_to_string
 libappstream-glib.so.8:as_content_rating_add_attribute
+libappstream-glib.so.8:as_content_rating_attribute_from_csm_age
+libappstream-glib.so.8:as_content_rating_attribute_get_description
 libappstream-glib.so.8:as_content_rating_attribute_to_csm_age
 libappstream-glib.so.8:as_content_rating_get_all_rating_ids
 libappstream-glib.so.8:as_content_rating_get_kind
@@ -246,6 +248,11 @@ libappstream-glib.so.8:as_content_rating_new
 libappstream-glib.so.8:as_content_rating_node_insert
 libappstream-glib.so.8:as_content_rating_node_parse
 libappstream-glib.so.8:as_content_rating_set_kind
+libappstream-glib.so.8:as_content_rating_system_format_age
+libappstream-glib.so.8:as_content_rating_system_from_locale
+libappstream-glib.so.8:as_content_rating_system_get_csm_ages
+libappstream-glib.so.8:as_content_rating_system_get_formatted_ages
+libappstream-glib.so.8:as_content_rating_system_to_string
 libappstream-glib.so.8:as_content_rating_value_from_string
 libappstream-glib.so.8:as_content_rating_value_to_string
 libappstream-glib.so.8:as_format_equal

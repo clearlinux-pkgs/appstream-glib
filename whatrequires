@@ -1,19 +1,22 @@
 # This file contains recursive sources that require this package
 cantarell-fonts
-cheese
 gedit
 gimp
 gnome-boxes
 gnome-chess
+gnome-clocks
 gnome-contacts
 gnome-mahjongg
 gnome-maps
 gnome-music
+gnome-shell
 gnome-system-monitor
 gnome-weather
 hexchat
 nautilus
+seahorse
 tilix
+totem
 vinagre
 yelp
 zathura
