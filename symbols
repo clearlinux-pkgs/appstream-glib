@@ -597,6 +597,7 @@ libappstream-glib.so.8:as_store_get_origin
 libappstream-glib.so.8:as_store_get_search_match
 libappstream-glib.so.8:as_store_get_size
 libappstream-glib.so.8:as_store_get_type
+libappstream-glib.so.8:as_store_get_version
 libappstream-glib.so.8:as_store_get_watch_flags
 libappstream-glib.so.8:as_store_load
 libappstream-glib.so.8:as_store_load_async
@@ -617,6 +618,7 @@ libappstream-glib.so.8:as_store_set_builder_id
 libappstream-glib.so.8:as_store_set_destdir
 libappstream-glib.so.8:as_store_set_origin
 libappstream-glib.so.8:as_store_set_search_match
+libappstream-glib.so.8:as_store_set_version
 libappstream-glib.so.8:as_store_set_watch_flags
 libappstream-glib.so.8:as_store_to_file
 libappstream-glib.so.8:as_store_to_xml
