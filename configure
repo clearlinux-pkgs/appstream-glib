@@ -1,1 +1,3 @@
--Ddep11=false -Dstemmer=false -Drpm=false
+-Ddep11=false
+-Dstemmer=false
+-Drpm=false
