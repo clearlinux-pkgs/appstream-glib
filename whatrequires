@@ -1,5 +1,4 @@
 # This file contains recursive sources that require this package
-baobab
 cantarell-fonts
 connections
 devhelp
@@ -8,22 +7,13 @@ fsearch
 gedit
 gimp
 gnome-boxes
-gnome-characters
-gnome-chess
-gnome-clocks
 gnome-console
-gnome-contacts
-gnome-font-viewer
 gnome-mahjongg
 gnome-music
 gnome-shell
-gnome-system-monitor
-gnome-text-editor
-gnome-weather
 hexchat
-libadwaita
+lutris
 meld
-nautilus
 rhythmbox
 seahorse
 totem
